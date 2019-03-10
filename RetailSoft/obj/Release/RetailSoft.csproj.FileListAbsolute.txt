@@ -1,0 +1,14 @@
+C:\Users\David\source\repos\RetailSoft\RetailSoft\bin\Release\RetailSoft.exe.config
+C:\Users\David\source\repos\RetailSoft\RetailSoft\bin\Release\RetailSoft.exe
+C:\Users\David\source\repos\RetailSoft\RetailSoft\bin\Release\RetailSoft.pdb
+C:\Users\David\source\repos\RetailSoft\RetailSoft\bin\Release\ObjectListView.dll
+C:\Users\David\source\repos\RetailSoft\RetailSoft\bin\Release\ObjectListView.xml
+C:\Users\David\source\repos\RetailSoft\RetailSoft\obj\Release\RetailSoft.Form1.resources
+C:\Users\David\source\repos\RetailSoft\RetailSoft\obj\Release\RetailSoft.Properties.Resources.resources
+C:\Users\David\source\repos\RetailSoft\RetailSoft\obj\Release\RetailSoft.csproj.GenerateResource.cache
+C:\Users\David\source\repos\RetailSoft\RetailSoft\obj\Release\RetailSoft.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\RetailSoft\RetailSoft\obj\Release\RetailSoft.csproj.CopyComplete
+C:\Users\David\source\repos\RetailSoft\RetailSoft\obj\Release\RetailSoft.exe
+C:\Users\David\source\repos\RetailSoft\RetailSoft\obj\Release\RetailSoft.pdb
+C:\Users\David\source\repos\RetailSoft\RetailSoft\bin\Release\Newtonsoft.Json.dll
+C:\Users\David\source\repos\RetailSoft\RetailSoft\obj\Release\RetailSoft.csprojAssemblyReference.cache

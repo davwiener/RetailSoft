@@ -1,0 +1,13 @@
+C:\Users\David\source\repos\RetailSoft\RetailSoft\bin\Debug\RetailSoft.exe.config
+C:\Users\David\source\repos\RetailSoft\RetailSoft\bin\Debug\RetailSoft.exe
+C:\Users\David\source\repos\RetailSoft\RetailSoft\bin\Debug\RetailSoft.pdb
+C:\Users\David\source\repos\RetailSoft\RetailSoft\obj\Debug\RetailSoft.csprojAssemblyReference.cache
+C:\Users\David\source\repos\RetailSoft\RetailSoft\obj\Debug\RetailSoft.Form1.resources
+C:\Users\David\source\repos\RetailSoft\RetailSoft\obj\Debug\RetailSoft.Properties.Resources.resources
+C:\Users\David\source\repos\RetailSoft\RetailSoft\obj\Debug\RetailSoft.csproj.GenerateResource.cache
+C:\Users\David\source\repos\RetailSoft\RetailSoft\obj\Debug\RetailSoft.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\RetailSoft\RetailSoft\obj\Debug\RetailSoft.exe
+C:\Users\David\source\repos\RetailSoft\RetailSoft\obj\Debug\RetailSoft.pdb
+C:\Users\David\source\repos\RetailSoft\RetailSoft\bin\Debug\ObjectListView.dll
+C:\Users\David\source\repos\RetailSoft\RetailSoft\bin\Debug\ObjectListView.xml
+C:\Users\David\source\repos\RetailSoft\RetailSoft\obj\Debug\RetailSoft.csproj.CopyComplete

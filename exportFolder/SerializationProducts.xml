@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProductsList>
+    <Product>
+      <Price>32</Price>
+      <BarCode>3</BarCode>
+      <Quantity>31</Quantity>
+      <Description>2</Description>
+      <Total>992</Total>
+    </Product>
+    <Product>
+      <Price>23</Price>
+      <BarCode>32</BarCode>
+      <Quantity>123</Quantity>
+      <Description>23</Description>
+      <Total>2829</Total>
+    </Product>
+  </ProductsList>
+  <TotalPrice>3821</TotalPrice>
+</Products>
